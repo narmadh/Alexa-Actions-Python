@@ -1,0 +1,4 @@
+__pycache__
+ngrok.exe
+google_actions_webhook_input_format.json
+alexa_skill_response_data_input_format.json
